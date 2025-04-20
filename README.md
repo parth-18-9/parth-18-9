@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Parth Mishra</h1>
 <h3 align="center">A passionate Data analyst from India "Simplifying data to maximize impact and enhance operational excellence."</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.gcPMc25ZR7Xq-F-NNF1v1wHaE8?w=768&h=512&rs=1&pid=ImgDetMain">
