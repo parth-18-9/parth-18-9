@@ -9,6 +9,11 @@
 
 🎯 Aspiring **Data Analyst** from India — Passionate about transforming data into actionable insights to drive business decisions.
 
+
+
+
+
+
 ## 💼 What I'm Currently Working On
 - 🔍 Exploring **Data Science**, **SQL**, and **Power BI**
 - 🤖 Learning **LangGraph**, **Google Gemini AI**, and **Gen AI tools**
