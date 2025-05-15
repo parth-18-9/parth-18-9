@@ -5,21 +5,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-18-9&label=Profile%20views&color=0e75b6&style=flat" alt="parth-18-9" /> </p>
 
-- 🔭 I’m currently working on **Data science and AI**
+# 👋 Hi, I'm Parth Mishra
 
-- 🌱 I’m currently learning **python and its libraries, Gen AI**
+🎯 Aspiring **Data Analyst** from India — Passionate about transforming data into actionable insights to drive business decisions.
 
-- 👯 I’m looking to collaborate on **Data analytics**
+## 💼 What I'm Currently Working On
+- 🔍 Exploring **Data Science**, **SQL**, and **Power BI**
+- 🤖 Learning **LangGraph**, **Google Gemini AI**, and **Gen AI tools**
+- 📊 Building real-world **Excel & BI dashboards**
+- 📚 Mastering Python libraries (Pandas, Matplotlib, NumPy)
 
-- 📝 My telegram channel link [https://t.me/+DjspTyVuQ7UzZTZl](https://t.me/+DjspTyVuQ7UzZTZl)
+## 📫 Let's Connect
+- 📧 Email: [parthmishra633@gmail.com]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/parthmishra1877/)
+- 📬 [Telegram Channel](https://t.me/+Djpj7vUq7uZJZjZl)
 
-- 💬 Ask me about **Data analytics**
-
-- 📫 How to reach me **parthmishra633@gmail.com**
+## 📂 My Work (Coming Soon)
+Stay tuned for:
+- 🔧 **Excel Projects**: Dashboards, formulas, automation
+- 💾 **SQL Projects**: Real-world datasets, joins, CTEs, indexes
+- 📊 **Power BI Projects**: DAX, visuals, Reports, KPIs
+- 🐍 **Python Projects**: Data wrangling, EDA, visualization
+---
+## 🧠 Fun Fact
+I'm a civil engineer transitioning to data, so I blend **analytical thinking** with **real-world logic** 💡
 
 - 📄 Know about my experiences [file:///C:/Users/parth/Downloads/PARTH%207.pdf](file:///C:/Users/parth/Downloads/PARTH%207.pdf)
-
-- ⚡ Fun fact **I am a civil engg. do anything except civil engg.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
